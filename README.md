@@ -2,16 +2,16 @@
  Tugas 2 GDSC ITB Front End Web Dev
 
 Movie List Page
-![Halaman Daftar Movie](screeshots/List.png)
+![Halaman Daftar Movie](screenshots/List.png)
 
 Detail Movie Page Before Add to Wishlist
-![Halaman Detail Movie Before Add](screeshots/Detail1.png)
+![Halaman Detail Movie Before Add](screenshots/Detail1.png)
 
 Add Movie to Wishlist Progress
-![Add Progress](screeshots/Progress.png)
+![Add Progress](screenshots/Progress.png)
 
 Detail Movie Page After Add to Wishlist
-![Halaman Detail Movie After Add](screeshots/Detail2.png)
+![Halaman Detail Movie After Add](screenshots/Detail2.png)
 
 Wishlist Page
-![Halaman Wishlist](screeshots/Wishlist.png)
+![Halaman Wishlist](screenshots/Wishlist.png)
